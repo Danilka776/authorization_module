@@ -1,2 +1,2 @@
-# authorization_module
-patch for auth in OpenStack
+# OAuth2 for OpenStack
+patch for OAuth2 with countermeasures
